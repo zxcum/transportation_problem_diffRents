@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script src="eel.js"></script>
+</head>
+<body>
+    <section class="header">
+        <div class="name-prog">
+        <h1 class="text-1">Калькулятор минимальных затрат</h1>
+        </div>
+        <nav>
+            <div class="nav-links">
+                <ul>
+                    <li>
+                        <a href="index.html">Домашняя страница</a>
+                    </li>
+                    <li>
+                        <a href="solution.html">Решение</a>
+                    </li>
+                    <li>
+                        <a href="about.html">О программе</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
